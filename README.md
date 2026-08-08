@@ -1,6 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=nekita_begimotov&fontSize=50&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=200&section=header&text=nekita_begimotov&fontSize=50&fontAlignY=35)
 
 <div align="center">
+
+### 📖 About Me
+
+Hi there! I'm 32 years old. At 26, I started my journey as a trans woman, finding my true path and personal identity. Development and coding have always been my main passion and creative outlet throughout this journey.
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -19,6 +25,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=nekita_begimotov&color=00f2fe&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=nekita_begimotov&color=ff758c&style=flat-square&label=Profile+Views)
 
 </div>
