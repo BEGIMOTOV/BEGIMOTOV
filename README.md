@@ -28,6 +28,6 @@ Hi there! I'm 32 years old 🏳️‍⚧️ At 26, I started my journey as a tra
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nekita_begimotov&color=5BCEFA&style=flat-square&label=Profile+Views)
+
 
 </div>
